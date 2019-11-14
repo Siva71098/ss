@@ -1,3 +1,2 @@
-### operating system
-
-Windows
+### operating system:
+            Windows
